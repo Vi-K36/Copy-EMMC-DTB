@@ -1,0 +1,14 @@
+Copy the script to roms/ports_scripts/ folder and run it. 
+
+It will copy the dtb to /storage/roms/
+
+----
+
+Original script by by mcasoo:
+
+#!/bin/bash
+
+cp /flash/*.dtb /storage/roms/
+cp /flash/KERNEL /storage/roms/
+cp /flash/boot.ini /storage/roms/
+cp /flash/extlinux/extlinux.conf /storage/roms/
