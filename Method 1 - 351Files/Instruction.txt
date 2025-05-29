@@ -1,0 +1,17 @@
+The following method allows you to run 351Files from within Retroarch.
+
+Instructions:
+
+Copy the folders from the ZIP to your roms partition (or ROMS TF card)
+
+Open a game in Retroarch
+
+Close content
+
+Load content
+
+Navigate to storage / roms / ports_scripts and launch the 351files.sh
+
+DTB is in a roof folder called Flash.
+
+** In consoles with a 1:1 screen the file explorer will not occupy the entier screen, so if a folder seems like it is missing files just scroll down and they will show up.
